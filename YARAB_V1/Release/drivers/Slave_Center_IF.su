@@ -1,0 +1,15 @@
+../drivers/Slave_Center_IF.c:11:6:SPI_Callback	8	static
+../drivers/Slave_Center_IF.c:31:6:SPI_Init	48	static
+../drivers/Slave_Center_IF.c:76:6:SPI_WriteRegister	64	static
+../drivers/Slave_Center_IF.c:123:10:SPI_ReadRegister	56	static
+../drivers/Slave_Center_IF.c:180:6:setInitialization	8	static
+../drivers/Slave_Center_IF.c:190:6:setSystemGlobalConfig	8	static
+../drivers/Slave_Center_IF.c:200:6:setSystemConfig1	8	static
+../drivers/Slave_Center_IF.c:209:6:setSystemConfig2	8	static
+../drivers/Slave_Center_IF.c:219:10:getSystemDiagnostic	8	static
+../drivers/Slave_Center_IF.c:230:6:setADCConfig	8	static
+../drivers/Slave_Center_IF.c:239:6:setADC2OffsetCompensation	8	static
+../drivers/Slave_Center_IF.c:250:6:setOVUVEnable	8	static
+../drivers/Slave_Center_IF.c:259:10:getCellOVFault	8	static
+../drivers/Slave_Center_IF.c:265:10:getCellUVFault	8	static
+../drivers/Slave_Center_IF.c:273:6:setCellBalanceConfig	16	static

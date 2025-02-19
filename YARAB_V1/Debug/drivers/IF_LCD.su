@@ -1,0 +1,6 @@
+../drivers/IF_LCD.c:9:6:soc_disp	40	static
+../drivers/IF_LCD.c:17:6:soh_disp	40	static
+../drivers/IF_LCD.c:25:6:current_disp	40	static
+../drivers/IF_LCD.c:33:6:Fault_disp	16	static
+../drivers/IF_LCD.c:48:6:Temp_disp	40	static
+../drivers/IF_LCD.c:57:6:lcd	24	static
